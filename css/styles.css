@@ -1,0 +1,66 @@
+.grande{
+  height: 200px;
+  min-width: 375px;
+  max-width: 1440px;
+  
+}
+
+.mediano{
+  float: left;
+  width: 620px;
+  padding: 10px;
+ 
+}
+
+.mediano_txt{
+    float: right;
+  width: 620px;
+  padding: 10px;
+}
+
+.imagen{
+    width: 510px;
+}
+
+.div_imagen{
+    padding-top: 25px;
+    padding-left: 80px;
+}
+
+
+
+.div_h1{
+    padding-top: 100px;
+    margin: auto;
+    width: 500px;
+    
+}
+
+.div_p{
+        
+        padding-top: 15px;
+        margin-left: 80px;
+        width: 220px;
+    }
+
+
+.h1{
+    
+    font-size: 50px;
+    font-family: monospace;
+    color: #333333;
+}
+
+.div_btn{
+    padding-top: 50px;
+    margin-left: 80px;
+        width: 200px;
+    }
+
+.btn{
+    background-color: #333333;
+    border: none;
+    width: 200px;
+    
+
+}
